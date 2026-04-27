@@ -37,5 +37,5 @@ build/
 *.class
 *.jar
 
-application.properties
+src/main/resources/application.properties
 .gitattributes
